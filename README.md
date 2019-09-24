@@ -7,22 +7,27 @@ You also need the [backend part of the Stock Quote Tracker](https://github.com/l
 
 ## Quick Start
 
-1. **Clone this repo**
+1. **Clone this repo.**
+    
     ```shell
     git clone https://github.com/leejooho77/online_stock_quote_frontend.git
     ```
 
-1. **Install all dependencies**
+1. **Install all dependencies.**
+    
     Navigate into repository.
+    
     ```shell
     cd online_stock_quote_frontend/
     npm install
     ```
 
-1. **Make sure backend is running**
+1. **Make sure backend is running.**
+    
     Run [Stock Quote Tracker Backend](https://github.com/leejooho77/online_stock_quote_backend).
 
-1. **Now you are good to go**
+1. **Now you are good to go.**
+    
     ```shell
     npm start
     ```
