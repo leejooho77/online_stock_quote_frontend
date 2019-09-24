@@ -32,6 +32,8 @@ You also need the [backend part of the Stock Quote Tracker](https://github.com/l
     npm start
     ```
 
+    Then, open browser and navigate to `http://localhost:3000`.
+
 ## Available Scripts
 
 In the project directory, you can run:
