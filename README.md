@@ -25,6 +25,7 @@ You also need the [backend part of the Stock Quote Tracker](https://github.com/l
 1. **Make sure backend is running.**
     
     Run [Stock Quote Tracker Backend](https://github.com/leejooho77/online_stock_quote_backend).
+    When you see `[info] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:9000` from the backend console, proceed to next step.
 
 1. **Now you are good to go.**
     
