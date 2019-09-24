@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
 import Header from '../components/Header'
 import Render from './Render';
+import './App.css';
 
 const ws = new WebSocket("ws://localhost:9000/ws")
 
